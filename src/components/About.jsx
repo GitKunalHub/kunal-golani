@@ -43,7 +43,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a software developer, having successfully completed projects in TypeScript, JavaScript, Python, Php, and C#. My expertise extends to frameworks such as React, Node.js, Three.js, and Dot Net. I'm a quick learner and thrive on close collaboration with clients, aiming to deliver efficient, scalable, and user-friendly solutions that address real-world challenges. Let's work together to transform your ideas into reality! also hire me if you think me and my girl Rashmi look cute together...
+        I'm a software developer, having successfully completed projects in TypeScript, JavaScript, Python, Php, and C#. My expertise extends to frameworks such as React, Node.js, Three.js, and Dot Net. I'm a quick learner and thrive on close collaboration with clients, aiming to deliver efficient, scalable, and user-friendly solutions that address real-world challenges. Let's work together to transform your ideas into reality!
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
