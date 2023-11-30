@@ -13,8 +13,6 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
   meta,
   starbucks,
   tesla,
@@ -104,14 +102,6 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
 ];
 
 const experiences = [
@@ -122,10 +112,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "June 2023 - Aug 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Developing and maintaining web applications using Dot Net and other related technologies.",
+      "Collaborating with cross-functional teams including Classmates, project faculty, and others to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Sucessfully implemented Data Compression algorithms while uploading a post for better stability of the app.",
     ],
   },
   {
@@ -133,12 +123,12 @@ const experiences = [
     company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Aug 2023 - Oct 2022",
+    date: "Aug 2023 - Oct 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Spearheaded the end-to-end development of Critics Green, crafted from the ground up using React JS and TypeScript, showcasing skills acquired from scratch.",
+      "Led the creation of a robust backend infrastructure utilizing Firebase, seamlessly integrating it with the front-end to establish a cohesive and efficient system.",
+      "Developed custom APIs and implemented secure authentication protocols within Firebase, ensuring the confidentiality and integrity of user data while facilitating seamless interactions between the application's components.",
+      "Through the development journey of Critics Green, gained invaluable expertise in React JS, TypeScript, and Firebase, demonstrating adaptability and a keen ability to learn and implement new technologies.",
     ],
   },
   {
@@ -148,10 +138,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "June 2022 - Oct 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Successfully incorporated React JS for dynamic user interfaces, while expanding skill sets to include 3D modeling and implementation through three.js, enhancing visual appeal and engagement.",
+      "Applied responsive design methodologies within the React JS environment, prioritizing cross-browser compatibility to foster accessibility and inclusivity for a wider audience.",
+      "Leveraged expertise in motion div animations, acquired from libraries like framer motion, to enrich user interactions, creating seamless and visually captivating experiences.",
+      "Implemented EmailJS integration, enhancing communication capabilities by seamlessly incorporating email functionality, thereby optimizing user engagement and system notifications.",
     ],
   },
   {
@@ -203,62 +193,62 @@ const projects = [
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "MySQL",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "C#",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/GitKunalHub/DoomSpace",
   },
   {
     name: "Critics Green",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Critics Green is a groundbreaking platform that transcends traditional film and TV show databases. It not only serves as an extensive source of critical insights but also employs cutting-edge algorithms to intuitively suggest movies and TV shows tailored to individual preferences, ushering in a new era of curated entertainment discovery.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
-        color: "green-text-gradient",
+        name: "firebase",
+        color: "yellow-text-gradient",
       },
       {
-        name: "scss",
+        name: "typescript",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/GitKunalHub/critics-green",
   },
   {
     name: "3D Portfolio",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "3D Portfolio is a visually stunning and dynamically animated showcase, seamlessly integrating 3D models and arts to redefine the traditional portfolio experience. Through meticulous design and aesthetic precision, immersing viewers in a visually compelling narrative of creativity and skill.",
     tags: [
       {
-        name: "nextjs",
+        name: "threejs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
-        color: "green-text-gradient",
+        name: "react",
+        color: "red-text-gradient",
       },
       {
-        name: "css",
+        name: "emailjs",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/GitKunalHub/kunal-golani",
   },
 ];
 
