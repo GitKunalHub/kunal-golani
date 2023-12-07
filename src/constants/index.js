@@ -163,26 +163,14 @@ const testimonials = [
   {
     testimonial:
       "I am excited to explore various domains and technologies in the initial year of my career, expanding my skillset and becoming a well-rounded engineer.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
       "Before the end of 2030, I would love to see myself as a Senior Software Engineer with over 20+ Testimonials from respective firms.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
       "I look forward to approach my work with the spirit that I bring to programming, no matter the challenging aspect of tasks.",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
