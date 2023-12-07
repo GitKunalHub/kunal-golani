@@ -106,8 +106,21 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Critics Green",
+    company_name: "React - Firebase",
+    icon: tesla,
+    iconBg: "#E6DEDD",
+    date: "Aug 2023 - Oct 2023",
+    points: [
+      "Worked on the end-to-end development of Critics Green, crafted from the ground up using React JS and TypeScript, showcasing skills acquired from scratch.",
+      "Led the creation of a robust backend infrastructure utilizing Firebase, seamlessly integrating it with the front-end to establish a cohesive and efficient system.",
+      "Developed custom APIs and implemented secure authentication protocols within Firebase, ensuring the confidentiality and integrity of user data while facilitating seamless interactions between the application's components.",
+      "Through the development journey of Critics Green, gained invaluable expertise in React JS, TypeScript, and Firebase, demonstrating adaptability and a keen ability to learn and implement new technologies.",
+    ],
+  },
+  {
     title: "DoomSpace",
-    company_name: "Starbucks",
+    company_name: "HTML CSS - C#",
     icon: starbucks,
     iconBg: "#383E56",
     date: "June 2023 - Aug 2023",
@@ -119,21 +132,8 @@ const experiences = [
     ],
   },
   {
-    title: "Critics Green",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Aug 2023 - Oct 2023",
-    points: [
-      "Spearheaded the end-to-end development of Critics Green, crafted from the ground up using React JS and TypeScript, showcasing skills acquired from scratch.",
-      "Led the creation of a robust backend infrastructure utilizing Firebase, seamlessly integrating it with the front-end to establish a cohesive and efficient system.",
-      "Developed custom APIs and implemented secure authentication protocols within Firebase, ensuring the confidentiality and integrity of user data while facilitating seamless interactions between the application's components.",
-      "Through the development journey of Critics Green, gained invaluable expertise in React JS, TypeScript, and Firebase, demonstrating adaptability and a keen ability to learn and implement new technologies.",
-    ],
-  },
-  {
     title: "Kommunitz",
-    company_name: "Shopify",
+    company_name: "HTML JS - vb",
     icon: shopify,
     iconBg: "#383E56",
     date: "June 2022 - Oct 2022",
@@ -146,7 +146,7 @@ const experiences = [
   },
   {
     title: "3d Portfolio",
-    company_name: "Meta",
+    company_name: "React js - three.js",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Oct 2023 - Present",
