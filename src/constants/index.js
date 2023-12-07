@@ -138,10 +138,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "June 2022 - Oct 2022",
     points: [
-      "Successfully incorporated React JS for dynamic user interfaces, while expanding skill sets to include 3D modeling and implementation through three.js, enhancing visual appeal and engagement.",
-      "Applied responsive design methodologies within the React JS environment, prioritizing cross-browser compatibility to foster accessibility and inclusivity for a wider audience.",
-      "Leveraged expertise in motion div animations, acquired from libraries like framer motion, to enrich user interactions, creating seamless and visually captivating experiences.",
-      "Implemented EmailJS integration, enhancing communication capabilities by seamlessly incorporating email functionality, thereby optimizing user engagement and system notifications.",
+      "Learnt Building complex, responsive layouts with HTML and CSS like Utilizing grid layouts and flexbox for flexible content organization.",
+      "Constructed Interactive elements like upvote/downvote buttons and comment threads.",
+      "Worked on Designing efficient data models for posts, comments, users, and communities.",
+      "Utilized VB libraries and frameworks for data manipulation and retrieval in the Project.",
     ],
   },
   {
@@ -151,10 +151,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Oct 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Combining React's powerful component-based architecture with Three.js' 3D capabilities.",
+      "Implementing state management and data flow using React Hooks (e.g., useState, useEffect)",
+      "Implementing hemispherical lights, directional lights, and ambient lights for dynamic illumination.",
+      "Utilizing EmailJS library for sending email notifications directly from the website.",
     ],
   },
 ];
