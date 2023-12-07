@@ -162,7 +162,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I would love to have at-least 30 projects in my initial working year. That would help me get some confidence for my future in this industry.",
+      "I am excited to explore various domains and technologies in the initial year of my career, expanding my skillset and becoming a well-rounded engineer.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -170,7 +170,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Before the end of 2030, I would like to see myself as a Senior Software Engineer with over 20+ Testimonials from respective firms.",
+      "Before the end of 2030, I would love to see myself as a Senior Software Engineer with over 20+ Testimonials from respective firms.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -178,7 +178,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I look forward to consistently approach my work with the same enthusiasm and spirit that I bring to programming, no matter what the task may be.",
+      "I look forward to approach my work with the spirit that I bring to programming, no matter the challenging aspect of tasks.",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
