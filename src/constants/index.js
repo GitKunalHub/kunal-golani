@@ -178,7 +178,7 @@ const projects = [
   {
     name: "DoomSpace",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "DoomSpace is a vibrant online hub for diverse discussions and content sharing. It offers a user-friendly platform to explore various topics, connect with others, and participate in dynamic discussions. Join channels tailored to specific interests for an engaging online experience.",
     tags: [
       {
         name: "HTML",
