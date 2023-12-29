@@ -176,27 +176,6 @@ const testimonials = [
 
 const projects = [
   {
-    name: "DoomSpace",
-    description:
-      "DoomSpace is a vibrant online hub for diverse discussions and content sharing. It offers a user-friendly platform to explore various topics, connect with others, and participate in dynamic discussions. Join channels tailored to specific interests for an engaging online experience.",
-    tags: [
-      {
-        name: "HTML",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "MySQL",
-        color: "green-text-gradient",
-      },
-      {
-        name: "C#",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/GitKunalHub/DoomSpace",
-  },
-  {
     name: "Critics Green",
     description:
       "Critics Green is a groundbreaking platform that transcends traditional film and TV show databases. It not only serves as an extensive source of critical insights but also employs cutting-edge algorithms to intuitively suggest movies and TV shows tailored to individual preferences, ushering in a new era of curated entertainment discovery.",
@@ -216,6 +195,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/GitKunalHub/critics-green",
+    urlweb: "https://critics-green.vercel.app",
   },
   {
     name: "3D Portfolio",
@@ -237,6 +217,29 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/GitKunalHub/kunal-golani",
+    urlweb: "https://kunalgolani.vercel.app",
+  },
+  {
+    name: "DoomSpace",
+    description:
+      "DoomSpace is a vibrant online hub for diverse discussions and content sharing. It offers a user-friendly platform to explore various topics, connect with others, and participate in dynamic discussions. Join channels tailored to specific interests for an engaging online experience.",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MySQL",
+        color: "green-text-gradient",
+      },
+      {
+        name: "C#",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/GitKunalHub/DoomSpace",
+    urlweb: "https://github.com/GitKunalHub/DoomSpace",
   },
 ];
 
